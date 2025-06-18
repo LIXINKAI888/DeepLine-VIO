@@ -1,7 +1,7 @@
 # 🚀 DeepLine-VIO Project Demo
 
 <p align="center">
-  <a href="https://youtu.be/uT43ljyZcC8" target="_blank">
+  <a href="https://youtu.be/xZCt47I746w" target="_blank">
     <img src="https://github.com/user-attachments/assets/75527318-96c9-4328-aa1e-09a973500a57" alt="DeepLine-VIO Cover" width="75%" />
   </a>
 </p>
